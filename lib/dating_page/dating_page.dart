@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_mix/animated_change_container.dart';
-import 'package:flutter_mix/bottom_bar.dart';
-import 'package:flutter_mix/follow_button.dart';
-import 'package:flutter_mix/resizable_column.dart';
+import 'package:flutter_mix/dating_page/animated_change_container.dart';
+import 'package:flutter_mix/dating_page/bottom_bar.dart';
+import 'package:flutter_mix/dating_page/follow_button.dart';
+import 'package:flutter_mix/dating_page/resizable_column.dart';
 
 class DatingPage extends StatefulWidget {
   @override

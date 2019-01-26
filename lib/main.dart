@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_mix/dating_page.dart';
+import 'package:flutter_mix/calendar_animation/calendar_page.dart';
 
 void main() => runApp(MyApp());
 
@@ -35,7 +35,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         textTheme: _textTheme,
       ),
-      home: DatingPage(),
+      home: CalendarPage(),
     );
   }
 }

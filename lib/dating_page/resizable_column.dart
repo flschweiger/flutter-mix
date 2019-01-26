@@ -1,5 +1,5 @@
 import 'package:flutter/widgets.dart';
-import 'package:flutter_mix/animated_change_container.dart';
+import 'package:flutter_mix/dating_page/animated_change_container.dart';
 
 class ResizableColumn extends StatefulWidget {
   final Widget background;
