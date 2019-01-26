@@ -1,16 +1,11 @@
-# flutter_mix
+# Flutter MIX
 
 UI experiments with Flutter. What else?
 
-## Getting Started
+## What's this?
 
-This project is a starting point for a Flutter application.
+This is a repo full of experiments written in Flutter. Most of the time I just do them as a proof of concept and becuase I enjoy throwing together some UI eye candy. Feel free to copy and use this code at any time but please keep in mind that most of it is written in a very short amount of time and therefore I do not guarentee a good code quality. That's why they're called 'experiments' 😉
 
-A few resources to get you started if this is your first Flutter project:
+## How do I run his?
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Just checkout the repo and execute `flutter run` inside the root directory. The app includes a home page from where you can select the different UI experiments. Happy fluttering!
